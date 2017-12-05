@@ -36,7 +36,7 @@ body,p,div,span,input,img,li,ul{
     /*-webkit-align-items: center;*/
     /*align-items: center;*/
 }
-#canvas{
-    background: url('../images/page1.jpg') no-repeat;
-    background-size: 100% 100%;
-}
+/*#canvas{*/
+    /*background: url('../images/page1.jpg') no-repeat;*/
+    /*background-size: 100% 100%;*/
+/*}*/
